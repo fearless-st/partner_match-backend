@@ -7,9 +7,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.IOException;
 
 /**
- * @Author: QiMu
- * @Date: 2023年04月24日 16:02
- * @Version: 1.0
  * @Description: 第三方登录
  */
 public interface ThirdPartyLoginService {

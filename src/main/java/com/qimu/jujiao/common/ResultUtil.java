@@ -1,9 +1,6 @@
 package com.qimu.jujiao.common;
 
 /**
- * @Author: QiMu
- * @Date: 2023年02月04日 19:43
- * @Version: 1.0
  * @Description: 返回工具类
  */
 public class ResultUtil {

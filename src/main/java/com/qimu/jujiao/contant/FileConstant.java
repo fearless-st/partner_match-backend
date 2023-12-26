@@ -2,8 +2,6 @@ package com.qimu.jujiao.contant;
 
 /**
  * 文件常量
- *
- * @author qimu
  */
 public interface FileConstant {
 

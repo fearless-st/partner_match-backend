@@ -11,8 +11,6 @@ import java.util.Date;
 
 /**
  * 聊天消息表
- *
- * @author qimu
  */
 @TableName(value = "chat")
 @Data

@@ -5,9 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月25日 18:00
- * @Version: 1.0
  * @Description:
  */
 @Data

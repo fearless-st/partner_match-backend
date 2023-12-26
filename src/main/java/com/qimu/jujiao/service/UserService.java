@@ -11,9 +11,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author qimu
  * @description 针对表【user(用户表)】的数据库操作Service
- * @createDate 2023-01-13 23:17:21
  */
 public interface UserService extends IService<User> {
 

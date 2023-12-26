@@ -28,10 +28,7 @@ import java.util.stream.Collectors;
 import static com.qimu.jujiao.contant.UserConstant.LOGIN_USER_STATUS;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月08日 23:21
- * @Version: 1.0
- * @Description:
+ * @Description:伙伴控制层
  */
 @RestController
 @Slf4j

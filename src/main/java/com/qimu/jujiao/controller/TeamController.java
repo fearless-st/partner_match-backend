@@ -18,10 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Set;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月10日 20:59
- * @Version: 1.0
- * @Description:
+ * @Description:队伍控制层
  */
 @RestController
 @RequestMapping("/team")

@@ -6,9 +6,6 @@ import java.io.Serializable;
 import java.util.Set;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月10日 21:45
- * @Version: 1.0
  * @Description: 队伍和用户信息封装类（脱敏）
  */
 @Data

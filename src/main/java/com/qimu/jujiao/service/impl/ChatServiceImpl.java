@@ -32,9 +32,7 @@ import static com.qimu.jujiao.contant.ChatConstant.*;
 import static com.qimu.jujiao.contant.UserConstant.ADMIN_ROLE;
 
 /**
- * @author qimu
  * @description 针对表【chat(聊天消息表)】的数据库操作Service实现
- * @createDate 2023-04-11 11:19:33
  */
 @Service
 public class ChatServiceImpl extends ServiceImpl<ChatMapper, Chat>

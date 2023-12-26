@@ -17,10 +17,7 @@ import java.io.IOException;
 import static com.qimu.jujiao.contant.UserConstant.LOGIN_USER_STATUS;
 
 /**
- * @Author: QiMu
- * @Date: 2023年04月24日 09:39
- * @Version: 1.0
- * @Description:
+ * @Description:第三方登录控制层
  */
 @RestController
 @RequestMapping("login")

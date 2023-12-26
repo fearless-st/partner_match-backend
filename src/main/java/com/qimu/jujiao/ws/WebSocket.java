@@ -35,9 +35,6 @@ import static com.qimu.jujiao.contant.UserConstant.ADMIN_ROLE;
 import static com.qimu.jujiao.contant.UserConstant.LOGIN_USER_STATUS;
 import static com.qimu.jujiao.utils.StringUtils.stringJsonListToLongSet;
 
-/**
- * @author qimu
- */
 @Component
 @Slf4j
 @ServerEndpoint(value = "/websocket/{userId}/{teamId}", configurator = HttpSessionConfigurator.class)

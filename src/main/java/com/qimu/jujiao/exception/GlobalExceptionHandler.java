@@ -8,9 +8,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * @author: QiMu
- * @Date: 2023年02月04日 21:54
- * @Version:1.0
  * @Description: 全局异常处理器
  */
 @RestControllerAdvice

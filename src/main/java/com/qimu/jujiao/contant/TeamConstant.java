@@ -1,9 +1,6 @@
 package com.qimu.jujiao.contant;
 
 /**
- * @author: QiMu
- * @Date: 2023年01月18日 21:54
- * @Version: 1.0
  * @Description: 用户常量
  */
 public interface TeamConstant {

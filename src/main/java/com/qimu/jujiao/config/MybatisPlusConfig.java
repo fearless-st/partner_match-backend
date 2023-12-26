@@ -7,9 +7,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月06日 19:49
- * @Version: 1.0
  * @Description: mp分页插件
  */
 @Configuration

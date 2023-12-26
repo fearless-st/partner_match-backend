@@ -32,9 +32,7 @@ import static com.qimu.jujiao.utils.StringUtils.stringJsonListToLongSet;
 
 
 /**
- * @author qimu
  * @description 针对表【user(用户表)】的数据库操作Service实现
- * @createDate 2023-01-13 23:17:21
  */
 @Service
 @Slf4j

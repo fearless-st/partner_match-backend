@@ -1,9 +1,6 @@
 package com.qimu.jujiao.common;
 
 /**
- * @Author: QiMu
- * @Date: 2023年02月04日 19:53
- * @Version: 1.0
  * @Description: 错误码
  */
 public enum ErrorCode {

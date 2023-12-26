@@ -18,10 +18,7 @@ import java.util.List;
 import static com.qimu.jujiao.contant.ChatConstant.*;
 
 /**
- * @Author: QiMu
- * @Date: 2023年04月11日 11:37
- * @Version: 1.0
- * @Description:
+ * @Description:聊天控制层
  */
 @RestController
 @RequestMapping("/chat")

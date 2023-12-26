@@ -5,9 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @Author: QiMu
- * @Date: 2023年01月16日 23:36
- * @Version: 1.0
  * @Description: 用户登录请求体
  */
 @Data

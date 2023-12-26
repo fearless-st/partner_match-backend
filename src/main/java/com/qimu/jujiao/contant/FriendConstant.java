@@ -1,10 +1,7 @@
 package com.qimu.jujiao.contant;
 
 /**
- * @Author: QiMu
- * @Date: 2023年04月11日 11:59
- * @Version: 1.0
- * @Description:
+ * @Description:伙伴聊天常量
  */
 public interface FriendConstant {
     /**

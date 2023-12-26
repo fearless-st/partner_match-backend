@@ -35,9 +35,6 @@ import static com.qimu.jujiao.contant.FriendConstant.EXPIRED_STATUS;
 
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月12日 13:40
- * @Version: 1.0
  * @Description: 自动任务
  */
 @Component

@@ -10,9 +10,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author qimu
  * @description 针对表【friends(好友申请管理表)】的数据库操作Service
- * @createDate 2023-04-17 09:28:08
  */
 public interface FriendsService extends IService<Friends> {
 

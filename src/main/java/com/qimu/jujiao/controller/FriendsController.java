@@ -18,10 +18,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月08日 23:21
- * @Version: 1.0
- * @Description:
+ * @Description:伙伴控制层
  */
 @RestController
 @RequestMapping("/friends")

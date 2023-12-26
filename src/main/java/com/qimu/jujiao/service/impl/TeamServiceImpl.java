@@ -36,9 +36,7 @@ import static com.qimu.jujiao.contant.TeamConstant.*;
 import static com.qimu.jujiao.utils.StringUtils.stringJsonListToLongSet;
 
 /**
- * @author qimu
  * @description 针对表【team(队伍)】的数据库操作Service实现
- * @createDate 2023-03-08 23:14:16
  */
 @Service
 @Slf4j

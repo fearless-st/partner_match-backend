@@ -11,8 +11,6 @@ import java.util.Date;
 
 /**
  * 用户表
- *
- * @author qimu
  */
 @TableName(value = "user")
 @Data

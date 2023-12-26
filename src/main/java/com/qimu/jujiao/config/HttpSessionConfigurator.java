@@ -13,8 +13,6 @@ import javax.websocket.server.ServerEndpointConfig.Configurator;
 
 /**
  * 从websocket中获取用户session
- *
- * @author qimu
  */
 @Component
 public class HttpSessionConfigurator extends Configurator implements ServletRequestListener {

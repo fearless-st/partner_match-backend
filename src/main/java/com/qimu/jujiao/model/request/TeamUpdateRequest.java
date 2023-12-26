@@ -8,9 +8,6 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @Author: QiMu
- * @Date: 2023年03月16日 14:31
- * @Version: 1.0
  * @Description:
  */
 @Data

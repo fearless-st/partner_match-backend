@@ -35,9 +35,7 @@ import static com.qimu.jujiao.contant.FriendConstant.*;
 import static com.qimu.jujiao.utils.StringUtils.stringJsonListToLongSet;
 
 /**
- * @author qimu
  * @description 针对表【friends(好友申请管理表)】的数据库操作Service实现
- * @createDate 2023-04-17 09:28:08
  */
 @Service
 public class FriendsServiceImpl extends ServiceImpl<FriendsMapper, Friends> implements FriendsService {

@@ -3,9 +3,6 @@ package com.qimu.jujiao.exception;
 import com.qimu.jujiao.common.ErrorCode;
 
 /**
- * @author: QiMu.
- * @Date: 2023年02月04日 21:14
- * @Version:1.0
  * @Description: 自定义异常类
  */
 public class BusinessException extends RuntimeException {
